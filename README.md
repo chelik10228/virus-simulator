@@ -17,7 +17,7 @@ If you have Microsoft Windows you just can run VirusSimulator.exe or if you can'
 pip install pygame
 ```
 
-But if you have Linux Distibution just enter:
+But if you have Linux Distribution just enter:
 ```
 python VirusSimulator.py
 ```
